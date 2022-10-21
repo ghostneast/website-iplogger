@@ -10,7 +10,7 @@ Script to collect informations about IP adress from your website visitor and sen
 • Region, ZIP Code, Timezone, Coordinates
 
 #### <p>⛔️ IMPORTANT:</p>
-This was made for educational purposes and community contribution. I'm not responsible for misuse and malicious purposes.
+This was made for educational purposes and community contribution.<br> I'm not responsible for misuse and malicious purposes.
 
 ---
 ##### <p align='center'>Example for reference</p>
